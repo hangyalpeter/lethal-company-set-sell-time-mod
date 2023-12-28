@@ -1,0 +1,7 @@
+{
+    "name": "Set Company Sell Time",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/hangyalpeter/lethal-company-set-sell-time-mod",
+    "description": "Speeds up scrap selling time, so you don't have to wait that long at the deposit desk.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
